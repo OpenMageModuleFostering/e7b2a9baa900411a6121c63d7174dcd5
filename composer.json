@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/e7b2a9baa900411a6121c63d7174dcd5",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "The Agile Grid Extension by Mediotype allows Magento admins to save custom made filters for all filterable Magento grids turning the Magento admin system in to an Agile and powerful reporting tool.",
+    "authors": [
+    {
+        "name": "Mediotype",
+        "email": "joel@mediotype.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
